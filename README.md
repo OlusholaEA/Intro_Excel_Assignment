@@ -1,1 +1,1 @@
-Week 1 Assignment on "Excel Tutorial for Beginners". Explored the Excel interface and practiced navigation, using basic foemulas such as Sum,Maximum(hihgest),Minimum(lowest),Average,and count.i also practiced formatting of data and creating table.
+Week 1 Assignment on "Excel Tutorial for Beginners". Explored the Excel interface and practiced navigation, used basic formulas such as Sum, Maximum(hihgest), Minimum(lowest), Average, and count. i also practiced formatting of data and creating table.
