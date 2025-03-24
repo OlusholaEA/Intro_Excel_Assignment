@@ -1,1 +1,1 @@
-Mentorship for Acceleration (M4ACE) Week 1 Assignment on "Excel Tutorial for Beginners". Explored the Excel interface and practiced navigation, used basic formulas such as Sum, Maximum(highest), Minimum(lowest), Average, and count. I also practiced formatting of data and creating table.
+Mentorship for Acceleration (M4ACE) Week one. "Excel Tutorial for Beginners". Explored the Excel interface and practiced navigation, used basic formulas such as Sum, Maximum(highest), Minimum(lowest), Average, and count. I also practiced formatting of data and creating table.
